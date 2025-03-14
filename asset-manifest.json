@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/todoexpo/static/js/main.45849699.js",
+    "main.js": "/todoexpo/static/js/main.c6148e9a.js",
     "static/js/120.b6b708ea.js": "/todoexpo/static/js/120.b6b708ea.js",
     "favicon.ico": "/todoexpo/favicon.ico",
     "index.html": "/todoexpo/index.html",
@@ -12,11 +12,11 @@
     "favicon-16.png": "/todoexpo/favicon-16.png",
     "serve.json": "/todoexpo/serve.json",
     "manifest.json": "/todoexpo/manifest.json",
-    "main.45849699.js.map": "/todoexpo/static/js/main.45849699.js.map",
+    "main.c6148e9a.js.map": "/todoexpo/static/js/main.c6148e9a.js.map",
     "120.b6b708ea.js.map": "/todoexpo/static/js/120.b6b708ea.js.map"
   },
   "entrypoints": [
     "static/js/120.b6b708ea.js",
-    "static/js/main.45849699.js"
+    "static/js/main.c6148e9a.js"
   ]
 }
